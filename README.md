@@ -39,4 +39,4 @@ GrillDec/
 ![GrillDec Preview](images/logo3.png)  
 
 ### 📧 Contact  
-For any inquiries, reach out at: **your-email@example.com**  
+For any inquiries, reach out at: **lester.s.rodriguez.211@gmail.com**  
